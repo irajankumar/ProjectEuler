@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445294759 source:c:\users\hp\documents\cb projects\project euler 10\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+
